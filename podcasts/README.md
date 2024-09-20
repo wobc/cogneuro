@@ -2,6 +2,8 @@
 
 Welcome to the repository for student-created podcasts in the Cognitive Neuroscience bachelor course of the University of Granada! These podcasts are created as part of an educational activity where students explore and discuss various topics in cognitive neuroscience.
 
+This activity was originally conceived and guided by [Javier Ortiz-Tudela](https://ortiztudela.github.io/ortiztudela/) and [Carlos González-García](https://gonzalezgarcia.github.io/).
+
 ## Repository Structure
 
 The podcasts are organized by:
