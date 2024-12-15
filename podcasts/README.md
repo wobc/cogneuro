@@ -4,7 +4,7 @@ Welcome to the repository for student-created podcasts in the Cognitive Neurosci
 
 This activity was originally conceived and guided by [Javier Ortiz-Tudela](https://ortiztudela.github.io/ortiztudela/) and [Carlos González-García](https://gonzalezgarcia.github.io/) in the Fall of 2023.
 
-You can find a list of our expert contributors [here](CONTRIBUTORS.md).
+You can find a list of our expert contributors [here](contributors.md).
 
 ## Repository Structure
 
