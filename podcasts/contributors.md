@@ -11,13 +11,13 @@ We are deeply grateful for the contributions of the following experts who genero
   </div>
 
    <div style="margin: 20px; text-align: center;">
-    <img src="assets/experts/martin.jpg" alt="Expert 2" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="assets/experts/martin.png" alt="Expert 2" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3>Expert 2 Name</h3>
     <p>Short bio of expert 2. Their expertise lies in [field]. They are particularly helpful because...</p>
   </div>
 
   <div style="margin: 20px; text-align: center;">
-    <img src="assets/experts/gonzalez.jpg" alt="Expert 3" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="assets/experts/gonzalez.jpeg" alt="Expert 3" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3>Expert 3 Name</h3>
       <p>Short bio of expert 3. Their expertise lies in [field]. They have helped students with...</p>
   </div>
